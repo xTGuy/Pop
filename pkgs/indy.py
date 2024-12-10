@@ -24,9 +24,6 @@ if exec == 'test':
 
 if exec == 'exit' or "quit":
     quit()
-if exec == 'help':
-    print("Pop! v1.0 Does not have this command. Coming soon.")
-    os.system("python3 indy.py")
 
 
 ##################################
