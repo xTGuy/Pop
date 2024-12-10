@@ -1,0 +1,6 @@
+import os
+print("Thunder PM 1.0 Beta")
+URL = input("URL to PKG? >> ")
+os.system("wget " + (URL))
+print("Please add the package to the shell.py script.")
+os.system("python3 shell.py")

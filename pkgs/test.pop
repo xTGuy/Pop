@@ -1,4 +1,4 @@
 import os
 print('Hello, World!')
 # Simple HW script for pop.
-os.system("python3 indy.py")
+os.system("python3 shell.py")
